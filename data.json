@@ -1,0 +1,35 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Tablet",
+      "price": 500
+    },
+    {
+      "id": 2,
+      "name": "Smartwatch",
+      "price": 250
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "price": 150
+    },
+    {
+      "id": 4,
+      "name": "Monitor",
+      "price": 300
+    },
+    {
+      "id": 5,
+      "name": "Keyboard",
+      "price": 100
+    },
+    {
+      "name": "Mouse",
+      "price": 50,
+      "id": 6
+    }
+  ],
+  "orders": []
+}
